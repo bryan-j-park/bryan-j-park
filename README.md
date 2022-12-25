@@ -1,10 +1,12 @@
 # 🌊 Bryan Park
 
+---
+
 **`Software Engineer`**
 
 Hi, I'm Bryan! Welcome to my little corner of the internet. I'm a software engineer set on developing applications that solve real-world problems. I love building websites that people find useful and enjoyable to use. 
 
----
+#
           
 ### 🛠 Languages & Tools
 
