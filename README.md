@@ -10,7 +10,7 @@ Hi, I'm Bryan! Welcome to my little corner of the internet. I'm a software engin
   </a>
 </p>
 
-</br>
+#
           
 ### 🛠 Languages & Tools
 
