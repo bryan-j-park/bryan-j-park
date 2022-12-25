@@ -1,20 +1,3 @@
-<!--
-### Hi there 👋
-
-
-**bryan-j-park/bryan-j-park** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # 🌊 Bryan Park
 
 **`Software Engineer`**
@@ -52,7 +35,7 @@ Hey there, I'm Bryan! Welcome to my little corner of the internet. I'm a softwar
 #
 
 <details>
- <summary><h3>👨‍💻 Bryan's Coding Journey</h3></summary>
+ <summary><h3>🏥 => 👨🏻‍💻 Bryan's Coding Journey</h3></summary>
     Prior to pursuing a career as a software engineer, I worked as a Physical Therapist Assistant at a hospital. I have always had a passion for learning about technology and being able to utilize it in my daily life, but I never thought of it as a career. Fastforward to the summer of 2022, I learned about coding bootcamps and how software engineers were able to make an impact on the world. This was like bringing my two passions together, helping people and tech. I strive to make applications that can help not just myself, but as many people as possible. Hopefully one day, you will end up using an application I was able to help build.
 
 [Linkedin]: www.linkedin.com/in/bryanjpark
