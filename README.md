@@ -1,15 +1,8 @@
 # 🌊 Bryan Park
 
 **`Software Engineer`**
-<p align="left">
-  <a href="https://www.linkedin.com/in/bryanjpark">
-    <img align="left" alt="Linkedin" width="75px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg"/>
-  </a>
-</p>
 
 Hi, I'm Bryan! Welcome to my little corner of the internet. I'm a software engineer set on developing applications that solve real-world problems. I love building websites that people find useful and enjoyable to use. 
-
-
 
 ---
           
