@@ -36,8 +36,6 @@ Hi, I'm Bryan! Welcome to my little corner of the internet. I'm a software engin
 
 ![Bryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=bryan-j-park&show_icons=true&theme=tokyonight)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
-
 #
 
 <details>
