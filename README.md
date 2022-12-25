@@ -8,6 +8,7 @@ Hi, I'm Bryan! Welcome to my little corner of the internet. I'm a software engin
     <img align="left" alt="Linkedin" width="65px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg"/>
   </a>
   <br>
+  <br>
 
 #
           
